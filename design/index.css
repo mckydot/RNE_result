@@ -1,0 +1,26 @@
+.RNE_research_name{
+    font-size: 50px;
+    margin-top: 170px;
+}
+
+.team_name{
+    font-size: 37px;
+    font-style: bold;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.member_list{
+    font-size: 22px;
+}
+
+.button {
+    background-color: #e7e7e7; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 30px;
+}
